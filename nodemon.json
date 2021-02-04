@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_URI": "MONGO_URI",
+    "PORT": 8080,
+    "URL": "http://localhost:4200",
+    "secret": "secret"
+  }
+}
